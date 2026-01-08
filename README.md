@@ -33,7 +33,7 @@ An AI-powered document question-answering system using Retrieval-Augmented Gener
 
 ```bash
 git clone <your-repo-url>
-cd document-qa-rag
+cd Document_QA_Bot
 ```
 
 ### 2. Install Ollama and pull Llama 3.2
@@ -100,7 +100,7 @@ Frontend will run on http://localhost:8501
 ## Project Structure
 
 ```
-document-qa-rag/
+Document_QA_Bot/
 ├── backend/          # FastAPI backend
 ├── frontend/         # Streamlit frontend
 ├── docs/            # Documentation and diagrams
