@@ -2,7 +2,7 @@
 
 An AI-powered document question-answering system using Retrieval-Augmented Generation (RAG).
 
-## 🚀 Features
+## Features
 
 - Upload PDF, DOCX, TXT, and Markdown documents
 - Ask questions based on document content
@@ -10,7 +10,7 @@ An AI-powered document question-answering system using Retrieval-Augmented Gener
 - Vector-based semantic search
 - Local LLM using Ollama (Llama 3.2)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Backend**: FastAPI
@@ -27,7 +27,7 @@ An AI-powered document question-answering system using Retrieval-Augmented Gener
 - [Ollama](https://ollama.com/)
 - MongoDB Atlas account (free tier)
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
